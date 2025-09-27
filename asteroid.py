@@ -1,3 +1,4 @@
+import pygame
 from circleshape import *
 
 class Asteroid(CircleShape):
